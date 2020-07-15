@@ -1,0 +1,1 @@
+['G', 'F', 'M', 'sig_o', 'Kf', 'Sut', 'ka', 'kb', 'kc', 'kd', 'ke', 'sig', 'Se_p', 'Se', 'n_f', 'T', 'R']
