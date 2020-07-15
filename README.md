@@ -88,7 +88,7 @@ jupyter nbextension enable --py widgetsnbextension
 + `cd` to your favorite folder.
 + Then, type:
 ```
-git clone https://github.com/PredictiveScienceLab/knowledge-dag.git
+git clone https://github.com/atharvahans1/knowledge-dag.git
 ```
 + This will download the contents of this repository in a folder called `knowledge-dag`.
 + Enter the ``knowledge-dag`` folder:
