@@ -12,7 +12,7 @@ Hierarchical Bayesian Inference Tool for Knowledge DAGs is a tool for inferring 
 
 Find and download the right version of
 [Anaconda for Python 3.7](https://www.anaconda.com/distribution) from Continuum Analytics.
-**Note:** You do need Python 3 and not Python 2. The notebooks will not work
+**Note:** You do need Python 3 and note Python 2. The notebooks will not work
 with Python 2.
 
 ### OS Specific Instructions
