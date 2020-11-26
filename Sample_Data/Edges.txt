@@ -1,0 +1,1 @@
+[('G','M'), ('G','sig_o'), ('G','ka'), ('G','kb'),('Sut','ka'),('F','M'), ('F','kb'), ('F','kc'), ('M','sig_o'), ('sig_o','sig'), ('Kf','sig'), ('Sut','Se_p'), ('T','kd'), ('R','ke'), ('Se_p','Se'), ('ka','Se'), ('kb','Se'), ('kc','Se'), ('kd','Se'), ('ke','Se'),('sig','n_f'), ('Se','n_f')]
