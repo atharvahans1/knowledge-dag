@@ -13,6 +13,8 @@ Hierarchical Bayesian Inference Tool for Knowledge DAGs is a tool for inferring 
 ## Running the notebook on Google Colab
 It is recommended that you run the notebook locally (on your personal computer) since Pymc3 runs slower on Google Colab.
 
+You can download sample data from Sample_Data folder. 
+
 You can access the notebook using Google Colab [here](https://colab.research.google.com/drive/1z_DAoyURAGzJhYD-PagPrPetvbtUH4ba?usp=sharing). 
 
 
