@@ -47,10 +47,10 @@ import requests
 import os
 
 if os.path.isdir('Figures')==False:
-  !mkdir Figures
-  !mkdir Figures/Individual_DAGs
-  !mkdir Figures/Population 
-  !mkdir Figures/Post_Pred_Check_Training
+   os.mkdir('Figures')
+   os.mkdir('Figures/Individual_DAGs')
+   os.mkdir('Figures/Population')
+   os.mkdir('Figures/Post_Pred_Check_Training')
 
 
 style = {'description_width': 'initial'}
