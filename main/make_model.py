@@ -61,7 +61,7 @@ def make_model1(fatigue_th, e_obs, Q_ms, num_chains, iteration, posterior_sample
 		step = pm3.NUTS(max_treedepth=max_tree_depth, early_max_treedepth=early_max_tree_depth)
 		trace = pm3.sample(draws=iteration, chains=num_chains, step=step, tune=tune_samples)
 		
-# 	trace_burn_thin = trace[20000::30]
+# 	trace_burn_thin = trace[20000::30] # change this based on the autocorrelation plots
 	trace_burn_thin = trace
 
 	### Posterior predictive training dataset
