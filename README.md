@@ -3,7 +3,7 @@
 
 ## Description
 
-Hierarchical Bayesian Inference Tool for Knowledge DAGs is a tool for inferring individuals' causal scientific knowledge from the individuals' responses to a set of questions. This tool is based on a probabilistic [graph-based logistic (GrL) model](cite_paper) that uses directed acyclic graphs (DAGs) to represent individuals' causal scientific knowledge for a given theory. This tool can be used for:
+Hierarchical Bayesian Inference Tool for Knowledge DAGs is a tool for inferring individuals' causal scientific knowledge from the individuals' responses to a set of questions. This tool is based on a probabilistic [graph-based logistic (GrL) model](https://www.dropbox.com/s/upp3ltchk35c6zo/TLT_Journal.pdf?dl=0) that uses directed acyclic graphs (DAGs) to represent individuals' causal scientific knowledge for a given theory. This tool can be used for:
 + Visualizing population level knowledge distribution
 + Visualizing individual level knowledge distribution
 + Visualizing clusters across the population
